@@ -1,6 +1,6 @@
 # GitOps
 
-This repository contains the GitOps configuration for the `Applications` that are deployed in the cluster. One can override the default values of the applications helm-chart by creating a file with the name `<application-name>-values.yaml` in the respective folder. Check for more details in the [platform documentation](https://docs.kuberocketci.io/docs/user-guide/gitops)
+This reppppository contains the GitOps configuration for the `Applications` that are deployed in the cluster. One can override the default values of the applications helm-chart by creating a file with the name `<application-name>-values.yaml` in the respective folder. Check for more details in the [platform documentation](https://docs.kuberocketci.io/docs/user-guide/gitops)
 
 Structure of the repository is as follows:
 
